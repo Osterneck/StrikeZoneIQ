@@ -1,4 +1,4 @@
-The first MLB analytics-engine built for the new ABS era. 
+The first MLB analytics-engine built for the new  2026  ABS  era. 
 
 Measures umpire strike-zone-bias that survives the 2026 Automated Ball-Strike correction filter — the signal every legacy model missed.
 
