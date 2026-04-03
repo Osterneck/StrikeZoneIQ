@@ -1,5 +1,7 @@
 The first MLB analytics-engine built for the new  2026  ABS  era. 
 
+StrikeZoneIQ v2.0 is advanced predictive analytics that quantifies residual umpire bias in MLB’s new ABS (Automated Ball-Strike) era and converts it into actionable betting-market signals. By modeling challenge dynamics, team efficiency, and environmental factors, it uncovers hidden pricing inefficiencies in run totals markets (over / under) and delivers quant-edge for analysts, bettors, market maker's, umpire-training, and professional sports-teams. 
+
 Measures umpire strike-zone-bias that survives the 2026 Automated Ball-Strike correction filter — the signal every legacy model missed.
 
 The Problem: 
